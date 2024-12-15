@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  overflow-x: hidden;
+}
+.asset{
+  padding-left: 70px;
+  width: 150px;
+}
+.asset img{
+  width: 116px;
+  height: 85px;
+}
+.collapse{
+  margin-left: 1000px;
+}
+.nav-link{
+margin-left: 20px;
+}
+.btn-dark1 {
+  background: #FECC07;
+  color: #000000;
+  border: none;
+  width: 400px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 370px;
+
+  border-radius: none;
+}
+.con2{
+  background-color: #333;
+  width: 100vw;
+  height: 550px;
+
+  color: #ffffff;
+}
+.form-group{
+  width: 400px;
+  margin-left: 370px;
+  margin-top: 10px;
+}
+h1{
+  text-align: center;
+}
